@@ -1,0 +1,28 @@
+[27-Feb-2019 13:21:20] PHP Warning:  Wrong parameter count for trigger_error() in /home3/setpoin2/test/config/main_function.php on line 47
+[27-Feb-2019 13:21:20] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/setpoin2/test/config/main_function.php on line 48
+[27-Feb-2019 13:33:39] PHP Warning:  Wrong parameter count for trigger_error() in /home3/setpoin2/test/config/main_function.php on line 47
+[27-Feb-2019 13:33:39] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/setpoin2/test/config/main_function.php on line 48
+[27-Feb-2019 13:34:37] PHP Warning:  Wrong parameter count for trigger_error() in /home3/setpoin2/test/config/main_function.php on line 47
+[27-Feb-2019 13:34:37] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/setpoin2/test/config/main_function.php on line 48
+[27-Feb-2019 13:36:29] PHP Warning:  Wrong parameter count for trigger_error() in /home3/setpoin2/test/config/main_function.php on line 47
+[27-Feb-2019 13:36:29] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/setpoin2/test/config/main_function.php on line 48
+[27-Feb-2019 14:08:11] PHP Warning:  mysqli_stmt::bind_param() [<a href='mysqli-stmt.bind-param'>mysqli-stmt.bind-param</a>]: Number of variables doesn't match number of parameters in prepared statement in /home3/setpoin2/test/index.php on line 38
+[27-Feb-2019 14:08:21] PHP Warning:  mysqli_stmt::bind_param() [<a href='mysqli-stmt.bind-param'>mysqli-stmt.bind-param</a>]: Number of variables doesn't match number of parameters in prepared statement in /home3/setpoin2/test/index.php on line 38
+[12-Mar-2019 22:08:07] PHP Warning:  Wrong parameter count for trigger_error() in /home3/setpoin2/test/config/main_function.php on line 8
+[12-Mar-2019 22:08:07] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/setpoin2/test/config/main_function.php on line 9
+[12-Mar-2019 22:08:07] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/setpoin2/test/config/main_function.php on line 117
+[12-Feb-2021 21:48:10 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 256
+[12-Feb-2021 21:48:32 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 256
+[12-Feb-2021 21:48:34 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 256
+[12-Feb-2021 23:42:12 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 08:37:33 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 08:39:01 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 08:39:14 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 08:39:24 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 08:39:50 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 08:40:11 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 09:45:26 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 10:11:33 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 20:26:55 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[13-Feb-2021 20:27:04 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
+[14-Feb-2021 04:05:04 Asia/Manila] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hungrych/project5.hungrychubs.com/config/main_function.php on line 259
